@@ -1,0 +1,9 @@
+Date: 19 Jan 2018
+
+For Chinese:
+nohup ./mk-mp3-zh.sh zh-cn data.cn-en.s zh-mp3 &
+
+For English:
+
+(py3.6) ye@DL-Box:/data1/experiments/tts/mk-voice/zh-en-utopia$ nohup ./mk-mp3-en.sh en-us data.cn-en.t en-mp3 &
+
