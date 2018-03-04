@@ -4,6 +4,7 @@
 # written by Ye Kyaw Thu, Okayama Prefectural University, Japan
 # how to run: ./play-parallel.sh 
 # how to stop this script: Ctrl+z
+# Note: I used mpg123 mp3 player for playing output of TTS (text to speech) files
 
 for i in {1..1000}
 do
