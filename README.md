@@ -20,13 +20,15 @@ bn-en-dict-indian/
 
 ***German-English:***  
 gv-de-en/  
-(32 mp3 files, 16 German-English sentence pairs)  
+(32 mp3 files, 16 German-English sentence pairs)    
 
 ***Spanish-English:***  
-gv-es-en/
+gv-es-en/  
+(20 mp3 files, 10 Spanish-English sentence pairs)  
 
 ***French-English:***  
-gv-fr-en
+gv-fr-en/  
+(20 mp3 files, 10 French-English sentence pairs)  
 
 ***Italian-English:***  
 gv-it-en/
