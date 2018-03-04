@@ -42,6 +42,8 @@ hi-en-indian/
 ***Japanese-English:***  
 ja-en-kftt/  
 (64 mp3 files, 32 Japanese-English sentence pairs)  
+Parallel Data of Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles:  
+https://alaginrc.nict.go.jp/WikiCorpus/index_E.html  
 
 ***Tamil-English:***  
 ta-en-indian/  
