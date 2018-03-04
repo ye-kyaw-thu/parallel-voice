@@ -14,7 +14,7 @@ Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese lan
 
 You can download and listen some more example parallel voice data and they are as follows:
 
-***Bengali-English (dictionary word pairs):***
+***Bengali-English (dictionary word pairs):***  
 [bn-en-dict-indian/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/bn-en-dict-indian)  
 (62 mp3 files, 31 Bengali-English word pairs)  
 
