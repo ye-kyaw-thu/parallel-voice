@@ -55,7 +55,7 @@ Link: https://github.com/joshua-decoder/indian-parallel-corpora
 ***Japanese-English:***  
 [ja-en-kftt/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/ja-en-kftt)  
 (64 mp3 files, 32 Japanese-English sentence pairs)  
-Parallel Data Info: Parallel Data of Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles:  
+Parallel Data Info: Parallel Data of Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles  
 Link: https://alaginrc.nict.go.jp/WikiCorpus/index_E.html  
 
 ***Tamil-English:***  
