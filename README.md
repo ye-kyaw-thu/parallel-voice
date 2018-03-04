@@ -15,10 +15,12 @@ Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese lan
 You can download and listen some more example parallel voice data and they are as follows:
 
 ***Bengali-English (dictionary word pairs):***
-bn-en-dict-indian/
+bn-en-dict-indian/  
+(62 mp3 files, 31 Gengali-English word pairs)  
 
 ***German-English:***  
-gv-de-en/
+gv-de-en/  
+(32 mp3 files, 16 German-English sentence pairs)  
 
 ***Spanish-English:***  
 gv-es-en/
