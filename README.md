@@ -12,7 +12,7 @@ Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/
 
 Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese language pair.
 
-{{listen |filename=https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3 |title=Accordion chords |description=Chords being played on an accordion }}  
+![ test ]( https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3 ){ mediatype=audio/mpeg }
 
 You can download and listen some more example parallel voice data and they are as follows:
 
