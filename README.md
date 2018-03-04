@@ -20,9 +20,11 @@ bn-en-dict-indian/
 
 ![Science](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.en-ln-102.ogg)
 
+<p>
 <audio id="Scientific" controls="true">
   <source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.en-ln-102.ogg" type="audio/ogg">
 </audio>
+  </p>
 
 ***German-English:***  
 gv-de-en/  
