@@ -44,5 +44,5 @@ ja-en-kftt/
 
 ***Tamil-English:***  
 ta-en-indian/  
-()  
+(20 mp3 files, 10 Tamil-English sentence pairs)  
 
