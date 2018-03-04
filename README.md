@@ -12,7 +12,7 @@ Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/
 
 Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese language pair.
 
-![](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3)
+!audio[testing](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3){ size=10 duration=10 cycle=forever }
 
 You can download and listen some more example parallel voice data and they are as follows:
 
