@@ -11,12 +11,7 @@ I used μtopia - Microblog Translated Posts Parallel Corpus (Release V1.1 - 19/0
 Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/
 
 Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese language pair.
-
-<dl>
-<audio controls="">
-  <source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3" type="audio/mp3">
-</audio>
-</dl>
+![](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3)
 
 You can download and listen some more example parallel voice data and they are as follows:
 
