@@ -12,6 +12,8 @@ Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/
 
 Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese language pair.
 
+<audio src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3" controls preload></audio>
+
 <audio controls preload> 
     <source src="audio.ogg"></source> 
     <source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/zh-mp3/data.cn-en.s-ln-1.mp3"></source> 
