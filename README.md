@@ -18,7 +18,7 @@ You can download and listen some more example parallel voice data and they are a
 bn-en-dict-indian/  
 (62 mp3 files, 31 Bengali-English word pairs)  
 
-![Science](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.en-ln-102.ogg)
+!a[Science](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.en-ln-102.ogg)
 
 <p>
 <audio id="Scientific" controls="true">
