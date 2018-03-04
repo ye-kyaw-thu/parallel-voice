@@ -8,7 +8,7 @@ Thank you for visiting my GitHub and I am very happy if my small experiment will
 
 For **English-Chinese parallel-voice**,  
 I used μtopia - Microblog Translated Posts Parallel Corpus (Release V1.1 - 19/09/2013)  
-Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/
+Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/  
 Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese language pair.
 
 You can download and listen some more example parallel voice data and their brief information are as follows:
