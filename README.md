@@ -20,17 +20,15 @@ bn-en-dict-indian/
 
 !a[Science](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.en-ln-102.ogg)
 
-{::nomarkdown}
 
-<!-- HTML CODE-->
 <p>
 <audio id="Scientific" controls="true">
   <source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.en-ln-102.ogg" type="audio/ogg">
 </audio>
 </p>
 
+[![Watch the video]play](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.en-ln-102.ogg)
 
-{:/}
 ***German-English:***  
 gv-de-en/  
 (32 mp3 files, 16 German-English sentence pairs)    
