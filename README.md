@@ -1,7 +1,3 @@
-<head>
-<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
-</head>
-
 # parallel-voice
 
 Experiment of building parallel voice data with freely available parallel text corpora and Google TTS service.
@@ -22,13 +18,22 @@ You can download and listen some more example parallel voice data and they are a
 bn-en-dict-indian/  
 (62 mp3 files, 31 Bengali-English word pairs)  
 
-<audio id="bn-en">
-<source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3" type="audio/mp3"/>
-<source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.bn-ln-102.ogg" type="audio/ogg"/>
-<em>Sorry, the &lt;audio&gt; element is not supported in your system.</em>
-</audio>
-
-<audio src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3" controls preload></audio>
+// Init as above
+md.use(html5Media, {
+  messages: {
+    en: {
+      'html5 video not supported':
+        'Cannot play video.',
+      'html5 audio not supported':
+        'Cannot play audio.',
+      'html5 media fallback link':
+        'Download <a href="%s">file</a>.',
+      'html5 media description':
+        'Description: %s'      
+    }
+  }
+});
+console.log(md.render('![text](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3)'));
 
 ***German-English:***  
 gv-de-en/  
