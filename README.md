@@ -18,23 +18,6 @@ You can download and listen some more example parallel voice data and they are a
 bn-en-dict-indian/  
 (62 mp3 files, 31 Bengali-English word pairs)  
 
-// Init as above
-md.use(html5Media, {
-  messages: {
-    en: {
-      'html5 video not supported':
-        'Cannot play video.',
-      'html5 audio not supported':
-        'Cannot play audio.',
-      'html5 media fallback link':
-        'Download <a href="%s">file</a>.',
-      'html5 media description':
-        'Description: %s'      
-    }
-  }
-});
-console.log(md.render('![text](https://github.com/ye-kyaw-thu/parallel-voice/blob/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3)'));
-
 ***German-English:***  
 gv-de-en/  
 (32 mp3 files, 16 German-English sentence pairs)    
