@@ -26,6 +26,8 @@ bn-en-dict-indian/
 <em>Sorry, the &lt;audio&gt; element is not supported in your system.</em>
 </audio>
 
+<audio src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3" controls preload></audio>
+
 ***German-English:***  
 gv-de-en/  
 (32 mp3 files, 16 German-English sentence pairs)    
