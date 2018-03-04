@@ -17,23 +17,23 @@ You can download and listen some more example parallel voice data and they are a
 ***Bengali-English (dictionary word pairs):***
 bn-en-dict-indian/
 
-***German-English:***
+***German-English:***  
 gv-de-en/
 
-***Spanish-English:***
+***Spanish-English:***  
 gv-es-en/
 
-***French-English:***
+***French-English:***  
 gv-fr-en
 
-***Italian-English:***
+***Italian-English:***  
 gv-it-en/
 
-***Hindi-English:***
+***Hindi-English:***  
 hi-en-indian/
 
-***Japanese-English:***
+***Japanese-English:***  
 ja-en-kftt/
 
-***Tamil-English:***
+***Tamil-English:***  
 ta-en-indian/
