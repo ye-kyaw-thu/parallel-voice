@@ -12,4 +12,28 @@ Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/
 
 Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese language pair.
 
-I plan to upload some more example outputs for other langauge pairs ! Please wait.
+You can download and listen some more example parallel voice data and they are as follows:
+
+***Bengali-English (dictionary word pairs):***
+bn-en-dict-indian/
+
+***German-English:***
+gv-de-en/
+
+***Spanish-English:***
+gv-es-en/
+
+***French-English:***
+gv-fr-en
+
+***Italian-English:***
+gv-it-en/
+
+***Hindi-English:***
+hi-en-indian/
+
+***Japanese-English:***
+ja-en-kftt/
+
+***Tamil-English:***
+ta-en-indian/
