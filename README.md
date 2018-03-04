@@ -31,13 +31,19 @@ gv-fr-en/
 (20 mp3 files, 10 French-English sentence pairs)  
 
 ***Italian-English:***  
-gv-it-en/
+gv-it-en/  
+()  
 
 ***Hindi-English:***  
-hi-en-indian/
+hi-en-indian/  
+()  
 
 ***Japanese-English:***  
-ja-en-kftt/
+ja-en-kftt/  
+()  
+
 
 ***Tamil-English:***  
-ta-en-indian/
+ta-en-indian/  
+()  
+
