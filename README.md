@@ -18,7 +18,7 @@ You can download and listen some more example parallel voice data and they are a
 bn-en-dict-indian/  
 (62 mp3 files, 31 Bengali-English word pairs)  
 
-![Scientific &#128266;](https://soundcloud.com/user-332823092/dictbn-enen-ln-102)
+English: Scientific &#128266; https://soundcloud.com/user-332823092/dictbn-enen-ln-102
 
 ***German-English:***  
 gv-de-en/  
