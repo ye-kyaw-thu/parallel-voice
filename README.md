@@ -16,7 +16,7 @@ You can download and listen some more example parallel voice data and they are a
 
 ***Bengali-English (dictionary word pairs):***
 bn-en-dict-indian/  
-(62 mp3 files, 31 Gengali-English word pairs)  
+(62 mp3 files, 31 Bengali-English word pairs)  
 
 ***German-English:***  
 gv-de-en/  
@@ -32,16 +32,15 @@ gv-fr-en/
 
 ***Italian-English:***  
 gv-it-en/  
-()  
+(20 mp3 files, 10 Italian-English sentence pairs)  
 
 ***Hindi-English:***  
 hi-en-indian/  
-()  
+(44 mp3 files, 22 Hindi-English sentence pairs)  
 
 ***Japanese-English:***  
 ja-en-kftt/  
-()  
-
+(64 mp3 files, 32 Japanese-English sentence pairs)  
 
 ***Tamil-English:***  
 ta-en-indian/  
