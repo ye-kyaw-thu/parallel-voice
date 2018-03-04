@@ -21,8 +21,7 @@ bn-en-dict-indian/
 <audio id="bn-en">
 <source src="https://raw.githubusercontent.com/ye-kyaw-thu/parallel-voice/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3" type="audio/mp3"/>
 <source src="https://raw.githubusercontent.com/ye-kyaw-thu/parallel-voice/master/ogg4demo-play/dict.bn-en.bn-ln-102.ogg" type="audio/ogg"/>
-<em>Sorry, the &lt;audio&gt; element is not supported in your
-  reading system.</em>
+<em>Sorry, the &lt;audio&gt; element is not supported in your system.</em>
 </audio>
 
 ***German-English:***  
