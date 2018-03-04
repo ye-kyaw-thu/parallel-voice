@@ -10,6 +10,6 @@ For English-Chinese parallel-voice,
 I used μtopia - Microblog Translated Posts Parallel Corpus (Release V1.1 - 19/09/2013)
 Check this link: http://www.cs.cmu.edu/~lingwang/microtopia/
 
-***I uploaded only 1,000 parallel mp3 files of English and Chinese
+Please note, I uploaded only 1,000 parallel mp3 files of English and Chinese language pair.
 
 I plan to upload some more example outputs for other langauge pairs ! Please wait.
