@@ -20,43 +20,43 @@ You can download and listen some more example parallel voice data and they are a
 
 
 ***German-English:***  
-gv-de-en/  
+[gv-de-en/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/gv-de-en)  
 (32 mp3 files, 16 German-English sentence pairs)  
 Parallel Data Info: GlobalVoices  
 Link: http://opus.nlpl.eu/GlobalVoices.php  
 
 ***Spanish-English:***  
-gv-es-en/  
+[gv-es-en/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/gv-es-en)  
 (20 mp3 files, 10 Spanish-English sentence pairs)  
 Parallel Data Info: GlobalVoices  
 Link: http://opus.nlpl.eu/GlobalVoices.php  
 
 ***French-English:***  
-gv-fr-en/  
+[gv-fr-en/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/gv-fr-en)  
 (20 mp3 files, 10 French-English sentence pairs)  
 Parallel Data Info: GlobalVoices  
 Link: http://opus.nlpl.eu/GlobalVoices.php  
 
 ***Italian-English:***  
-gv-it-en/  
+[gv-it-en/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/gv-it-en)  
 (20 mp3 files, 10 Italian-English sentence pairs)  
 Parallel Data Info: GlobalVoices  
 Link: http://opus.nlpl.eu/GlobalVoices.php  
 
 ***Hindi-English:***  
-hi-en-indian/  
+[hi-en-indian/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/hi-en-indian)  
 (44 mp3 files, 22 Hindi-English sentence pairs)  
 Parallel Data Info: Parallel corpora for 6 Indian languages created on Mechanical Turk   
 Link: https://github.com/joshua-decoder/indian-parallel-corpora  
 
 ***Japanese-English:***  
-ja-en-kftt/  
+[ja-en-kftt/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/ja-en-kftt)  
 (64 mp3 files, 32 Japanese-English sentence pairs)  
 Parallel Data Info: Parallel Data of Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles:  
 Link: https://alaginrc.nict.go.jp/WikiCorpus/index_E.html  
 
 ***Tamil-English:***  
-ta-en-indian/  
+[ta-en-indian/](https://github.com/ye-kyaw-thu/parallel-voice/tree/master/example-tts-outputs/ta-en-indian)  
 (20 mp3 files, 10 Tamil-English sentence pairs)  
 Parallel Data Info: Parallel corpora for 6 Indian languages created on Mechanical Turk   
 Link: https://github.com/joshua-decoder/indian-parallel-corpora  
