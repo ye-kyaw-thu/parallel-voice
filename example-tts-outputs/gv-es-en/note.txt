@@ -1,0 +1,6 @@
+I copied from server and check, listen:
+
+lar@lar-air:~/experiment/gTTS/check/gv-es-en$ scp ye@163.225.223.79:/data1/experiments/tts/mk-voice/es-en-globalVoices/en-mp3/globalvoices.es-en.en-ln-{1..10}.mp3 .
+
+
+
