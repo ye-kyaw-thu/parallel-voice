@@ -19,8 +19,8 @@ bn-en-dict-indian/
 (62 mp3 files, 31 Bengali-English word pairs)  
 
 <audio id="bn-en">
-<source src="https://raw.githubusercontent.com/ye-kyaw-thu/parallel-voice/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3" type="audio/mp3"/>
-<source src="https://raw.githubusercontent.com/ye-kyaw-thu/parallel-voice/master/ogg4demo-play/dict.bn-en.bn-ln-102.ogg" type="audio/ogg"/>
+<source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/example-tts-outputs/bn-en-dict-indian/dict.bn-en.bn-ln-102.mp3" type="audio/mp3"/>
+<source src="https://github.com/ye-kyaw-thu/parallel-voice/blob/master/ogg4demo-play/dict.bn-en.bn-ln-102.ogg" type="audio/ogg"/>
 <em>Sorry, the &lt;audio&gt; element is not supported in your system.</em>
 </audio>
 
