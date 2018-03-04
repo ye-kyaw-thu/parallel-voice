@@ -38,17 +38,19 @@ gv-it-en/
 ***Hindi-English:***  
 hi-en-indian/  
 (44 mp3 files, 22 Hindi-English sentence pairs)  
+Parallel Data: Parallel corpora for 6 Indian languages created on Mechanical Turk   
+https://github.com/joshua-decoder/indian-parallel-corpora  
 
 ***Japanese-English:***  
 ja-en-kftt/  
 (64 mp3 files, 32 Japanese-English sentence pairs)  
-Parallel data: Parallel Data of Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles:  
+Parallel Data: Parallel Data of Japanese-English Bilingual Corpus of Wikipedia's Kyoto Articles:  
 https://alaginrc.nict.go.jp/WikiCorpus/index_E.html  
 
 ***Tamil-English:***  
 ta-en-indian/  
 (20 mp3 files, 10 Tamil-English sentence pairs)  
-Parallel data: Parallel corpora for 6 Indian languages created on Mechanical Turk   
+Parallel Data: Parallel corpora for 6 Indian languages created on Mechanical Turk   
 https://github.com/joshua-decoder/indian-parallel-corpora  
 
 
